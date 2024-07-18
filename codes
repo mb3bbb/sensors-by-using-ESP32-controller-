@@ -6,8 +6,8 @@
 
 //STEP-2 Define the I2C address and dimensions of the LCD:
 #define I2C_ADDR    0x27
-#define LCD_COLUMNS 20
-#define LCD_LINES   4
+#define LCD_COLUMNS 16
+#define LCD_LINES   2
 
 
 //STEP-3 Define the pin connected to the DHT sensor:
